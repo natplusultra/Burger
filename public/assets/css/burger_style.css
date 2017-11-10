@@ -1,0 +1,35 @@
+body {
+  background-color: #ffc014;
+}
+
+p {
+    padding: 5px;
+    margin: 5px;
+}
+  
+.label {
+    font-weight: bold;
+}
+  
+.add-burger-form, .eat-form {
+    padding: 5px;
+    margin: 5px;
+}
+ 
+row {
+    margin: 0 auto;
+}
+
+.form-group {
+    margin-bottom: 5px;
+}
+  
+h1, h2 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+}
