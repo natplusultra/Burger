@@ -1,23 +1,41 @@
 body {
-  background-color: #ffc014;
+  background-color: #fc9630;
+}
+
+.jumbotron {
+	background-color: #fc32c6;
+	color: white;
+	padding: 30px 0px;
+}
+
+#title {
+	font-size: 100px;
+	letter-spacing: 10px;
+}
+
+.heading {
+	color: #2def33;
+	padding-top: 25px;
+	padding-bottom: 20px;
 }
 
 p {
     padding: 5px;
     margin: 5px;
 }
+
+.eat-icon, .trash-icon {
+	padding-bottom: -10px;
+	height: 30px;
+	width: 30px;
+}
   
 .label {
     font-weight: bold;
 }
-  
-.add-burger-form, .eat-form {
-    padding: 5px;
-    margin: 5px;
-}
- 
-row {
-    margin: 0 auto;
+
+#newBurger {
+	padding: 0px 10px;
 }
 
 .form-group {
@@ -31,5 +49,5 @@ h1, h2 {
 img {
     display: block;
     margin: 0 auto;
-    width: 300px;
+    width: 90%;
 }
